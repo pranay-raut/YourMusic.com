@@ -25,7 +25,7 @@
       <div id="content">
         <div class="indent">
           <h2>Give the world your creation</h2>
-          <form method="post" action="up.php" enctype="multipart/form-data">
+          <form method="post" action="musicup.php" enctype="multipart/form-data">
 <div>
 <input type="file" name="title" size="2000000">
 </div>
